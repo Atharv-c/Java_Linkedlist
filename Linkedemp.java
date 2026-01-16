@@ -1,6 +1,8 @@
 /* Slip program 10a)  Write a java program to accept n employee details name from user 
  and store Them into linkedlist class and display them useing:
-  A) iterator Interface B) ListIterator Interface(reversse order) */
+  A) iterator Interface B) ListIterator Interface(reversse order)
+  demo program*/
+
 
 import java.util.*;
 import java.util.Scanner;
@@ -34,4 +36,5 @@ class Linkedemp {
             System.out.println(lit.previous());
         }
     }
+
 }
